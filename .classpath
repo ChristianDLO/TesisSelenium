@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="SeleniumJenkinsTestNG/SistemaDpruebas.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/selenium-server-standalone-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/client-combined-3.3.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/cssparser-0.9.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/htmlunit-driver-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/neko-htmlunit-2.24.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/websocket-api-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/websocket-client-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/websocket-common-9.2.20.v20161216.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/SELENIUM/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="var" path="gekon" sourcepath="/gekon"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
