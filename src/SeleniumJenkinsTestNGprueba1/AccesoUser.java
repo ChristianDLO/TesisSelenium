@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 public class AccesoUser {
 	@Test
-	 public void ingresaUser() {
+	 public void ingresaUser() throws Exception	{
 		//  RUTA DEL CHROME DRIVER PARA GOOGLE 
 String exePath  = "C:\\Users\\chrixdlo\\workspace\\TesisSelenium\\chromedriver\\chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver",exePath);
@@ -21,8 +21,8 @@ String exePath  = "C:\\Users\\chrixdlo\\workspace\\TesisSelenium\\chromedriver\\
 	    driver.findElement(By.name("textfield2")).clear();
 	    driver.findElement(By.name("textfield2")).sendKeys("juanito21");
 	    driver.findElement(By.name("Submit")).click();
-	    driver.quit();
-	    
+	     driver.quit();
+	     Thread.sleep(400);
 	}
 	
 

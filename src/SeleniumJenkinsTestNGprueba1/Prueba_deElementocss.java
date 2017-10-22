@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class Prueba_deElementocss {
 
 	@Test
-	 public void getTitleAutentiaTest() {
+	 public void getTitleAutentiaTest() throws Exception{
 		String exePath  = "C:\\Users\\chrixdlo\\workspace\\TesisSelenium\\chromedriver\\chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver",exePath);
 		WebDriver driver = new ChromeDriver();  
@@ -18,5 +18,6 @@ public class Prueba_deElementocss {
 	         System.out.println("verifica elemento css");
 	
 	driver.quit();
+	 Thread.sleep(400);
 }
 }
