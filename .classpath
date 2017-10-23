@@ -45,10 +45,5 @@
 	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/lib/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/chrixdlo/workspace/TesisSelenium/lib/xml-apis-1.4.01.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/tesisIntegracionJenkins">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/chrixdlo/workspace/JenkinsSelenium"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -21,7 +21,7 @@ public class ElemetoID_buscar {
 		    search.submit();
 		    
 		    driver.quit();
-		    
+			System.out.println("buscar elemento");
 		
 		  }
 

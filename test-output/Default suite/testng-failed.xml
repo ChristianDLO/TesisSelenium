@@ -8,26 +8,6 @@
           <include name="ingresaUser"/>
         </methods>
       </class> <!-- SeleniumJenkinsTestNGprueba1.AccesoUser -->
-      <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementocss">
-        <methods>
-          <include name="getTitleAutentiaTest"/>
-        </methods>
-      </class> <!-- SeleniumJenkinsTestNGprueba1.Prueba_deElementocss -->
-      <class name="SeleniumJenkinsTestNGprueba1.Titulo">
-        <methods>
-          <include name="getTitleAutentiaTest"/>
-        </methods>
-      </class> <!-- SeleniumJenkinsTestNGprueba1.Titulo -->
-      <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementos">
-        <methods>
-          <include name="getTitleAutentiaTest"/>
-        </methods>
-      </class> <!-- SeleniumJenkinsTestNGprueba1.Prueba_deElementos -->
-      <class name="SeleniumJenkinsTestNGprueba1.ElemetoID_buscar">
-        <methods>
-          <include name="botonBuscarID"/>
-        </methods>
-      </class> <!-- SeleniumJenkinsTestNGprueba1.ElemetoID_buscar -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

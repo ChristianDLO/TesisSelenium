@@ -16,8 +16,7 @@ public class Prueba_deElementos {
 	        driver.get("localhost:81/controlescolarphp/consultAlumno1.php");
 	         driver.findElement(By.id("botton")).sendKeys("10");
 	         driver.findElement(By.cssSelector("#botton")).click();
-	        
-	        
+	        	        
 	         driver.quit();
 	      
 	       
