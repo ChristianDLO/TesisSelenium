@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class ElemetoID_buscar {
 	
 	  @Test
-	  public void botonBuscarID()	{
+	  public void verificaBottonBuscarID()	{
 
 		  String exePath  = "C:\\Users\\chrixdlo\\workspace\\TesisSelenium\\chromedriver\\chromedriver.exe";
 			System.setProperty("webdriver.chrome.driver",exePath);

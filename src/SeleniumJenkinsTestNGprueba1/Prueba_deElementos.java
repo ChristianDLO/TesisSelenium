@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Prueba_deElementos {
 
 	@Test
-	 public void getTitleAutentiaTest()	{ 
+	 public void buttonTes()	{ 
 		String exePath  = "C:\\Users\\chrixdlo\\workspace\\TesisSelenium\\chromedriver\\chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver",exePath);
 		WebDriver driver = new ChromeDriver();  
