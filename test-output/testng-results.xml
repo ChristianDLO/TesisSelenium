@@ -2,30 +2,30 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="55899" started-at="2017-12-16T19:47:05Z" finished-at="2017-12-16T19:48:01Z">
+  <suite name="Default suite" duration-ms="30863" started-at="2017-12-16T20:02:55Z" finished-at="2017-12-16T20:03:26Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="55899" started-at="2017-12-16T19:47:05Z" finished-at="2017-12-16T19:48:01Z">
+    <test name="Default test" duration-ms="30863" started-at="2017-12-16T20:02:55Z" finished-at="2017-12-16T20:03:26Z">
       <class name="SeleniumJenkinsTestNGprueba1.ElemetoID_buscar">
-        <test-method status="PASS" signature="botonBuscarID()[pri:0, instance:SeleniumJenkinsTestNGprueba1.ElemetoID_buscar@91161c7]" name="botonBuscarID" duration-ms="13192" started-at="2017-12-16T13:47:48Z" finished-at="2017-12-16T13:48:01Z">
+        <test-method status="PASS" signature="verificaBottonBuscarID()[pri:0, instance:SeleniumJenkinsTestNGprueba1.ElemetoID_buscar@91161c7]" name="verificaBottonBuscarID" duration-ms="7633" started-at="2017-12-16T14:03:18Z" finished-at="2017-12-16T14:03:26Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- botonBuscarID -->
+        </test-method> <!-- verificaBottonBuscarID -->
       </class> <!-- SeleniumJenkinsTestNGprueba1.ElemetoID_buscar -->
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementos">
-        <test-method status="PASS" signature="getTitleAutentiaTest()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementos@5e3a8624]" name="getTitleAutentiaTest" duration-ms="13375" started-at="2017-12-16T13:47:22Z" finished-at="2017-12-16T13:47:36Z">
+        <test-method status="PASS" signature="buttonTes()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementos@5e3a8624]" name="buttonTes" duration-ms="7702" started-at="2017-12-16T14:03:03Z" finished-at="2017-12-16T14:03:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getTitleAutentiaTest -->
+        </test-method> <!-- buttonTes -->
       </class> <!-- SeleniumJenkinsTestNGprueba1.Prueba_deElementos -->
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementocss">
-        <test-method status="PASS" signature="verificaCss()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementocss@5c3bd550]" name="verificaCss" duration-ms="12115" started-at="2017-12-16T13:47:36Z" finished-at="2017-12-16T13:47:48Z">
+        <test-method status="PASS" signature="verificaCss()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementocss@5c3bd550]" name="verificaCss" duration-ms="8036" started-at="2017-12-16T14:03:10Z" finished-at="2017-12-16T14:03:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verificaCss -->
       </class> <!-- SeleniumJenkinsTestNGprueba1.Prueba_deElementocss -->
       <class name="SeleniumJenkinsTestNGprueba1.Titulo">
-        <test-method status="PASS" signature="getTitleAutentiaTest()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Titulo@42d80b78]" name="getTitleAutentiaTest" duration-ms="17120" started-at="2017-12-16T13:47:05Z" finished-at="2017-12-16T13:47:22Z">
+        <test-method status="PASS" signature="getTitleAutentiaTest()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Titulo@42d80b78]" name="getTitleAutentiaTest" duration-ms="7459" started-at="2017-12-16T14:02:55Z" finished-at="2017-12-16T14:03:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getTitleAutentiaTest -->
