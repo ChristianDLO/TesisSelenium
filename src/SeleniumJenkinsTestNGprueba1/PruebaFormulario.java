@@ -23,7 +23,7 @@ public class PruebaFormulario{
 	time_start = System.currentTimeMillis();
 	driver.get(web);
 			 
-	System.out.println("Carga de: " + web + "finalizada");
+	System.out.println("Carga de url: " + web + "..finalizada");
 
 	driver.manage().window().maximize();
 		 
