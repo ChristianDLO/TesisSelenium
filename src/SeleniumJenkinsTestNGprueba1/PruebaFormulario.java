@@ -48,8 +48,8 @@ public class PruebaFormulario{
 			 
 	 time_end = System.currentTimeMillis();
 	 double  time_total= time_end - time_start;
-	 System.out.println("El tiempo tomado ha sido: "+ (time_total) +" ms");
-	 System.out.println("El tiempo tomado ha sido: "+ (time_total/1000) +" s");
+	 System.out.println("El tiempo tomado en milisegundos: "+ (time_total) +" ms");
+	 System.out.println("El tiempo tomado en segundos: "+ (time_total/1000) +" s");
 	 Thread.sleep(1000);
 	 driver.quit();
 	}
