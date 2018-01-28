@@ -4,8 +4,8 @@
   <test name="Test">
     <classes>
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementos"/>
+      <class name="SeleniumJenkinsTestNGprueba1.PruebaFormulario"/>
       <class name="SeleniumJenkinsTestNGprueba1.ElemetoID_buscar"/>
-      <class name="SeleniumJenkinsTestNGprueba1.Titulo"/>
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementocss"/>
     </classes>
   </test> <!-- Test -->

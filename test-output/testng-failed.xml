@@ -3,11 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="SeleniumJenkinsTestNGprueba1.AccesoUser">
+      <class name="SeleniumJenkinsTestNGprueba1.PruebaFormulario">
         <methods>
-          <include name="ingresaUser"/>
+          <include name="tearDown"/>
+          <include name="PruebaFormularioUser"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- SeleniumJenkinsTestNGprueba1.AccesoUser -->
+      </class> <!-- SeleniumJenkinsTestNGprueba1.PruebaFormulario -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
