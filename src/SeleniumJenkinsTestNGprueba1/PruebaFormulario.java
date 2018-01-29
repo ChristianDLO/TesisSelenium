@@ -11,7 +11,7 @@ public class PruebaFormulario{
 	
 	@Test 
 	public void PruebaFormularioUser () throws InterruptedException {
-			
+			// link de chrome driver para abir chrome
     	String exePath  = "C:\\Users\\chrixdlo\\workspace\\TesisSelenium\\chromedriver\\chromedriver.exe";
 		System.setProperty("webdriver.chrome.driver",exePath);
 		WebDriver driver = new ChromeDriver();  
