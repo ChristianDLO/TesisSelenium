@@ -6,6 +6,7 @@
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementos"/>
       <class name="SeleniumJenkinsTestNGprueba1.PruebaFormulario"/>
       <class name="SeleniumJenkinsTestNGprueba1.ElemetoID_buscar"/>
+      <class name="SeleniumJenkinsTestNGprueba1.MultiplesMetodos"/>
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementocss"/>
     </classes>
   </test> <!-- Test -->
