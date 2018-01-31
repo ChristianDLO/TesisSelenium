@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="62761" started-at="2018-01-31T21:18:07Z" finished-at="2018-01-31T21:19:10Z">
+  <suite name="Suite" duration-ms="58736" started-at="2018-01-31T21:36:06Z" finished-at="2018-01-31T21:37:05Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="62761" started-at="2018-01-31T21:18:07Z" finished-at="2018-01-31T21:19:10Z">
+    <test name="Test" duration-ms="58736" started-at="2018-01-31T21:36:06Z" finished-at="2018-01-31T21:37:05Z">
       <class name="SeleniumJenkinsTestNGprueba1.ElemetoID_buscar">
-        <test-method status="PASS" signature="verificaBottonBuscarID()[pri:0, instance:SeleniumJenkinsTestNGprueba1.ElemetoID_buscar@7d9d1a19]" name="verificaBottonBuscarID" duration-ms="9223" started-at="2018-01-31T15:18:42Z" finished-at="2018-01-31T15:18:51Z">
+        <test-method status="PASS" signature="verificaBottonBuscarID()[pri:0, instance:SeleniumJenkinsTestNGprueba1.ElemetoID_buscar@7d9d1a19]" name="verificaBottonBuscarID" duration-ms="14269" started-at="2018-01-31T15:36:31Z" finished-at="2018-01-31T15:36:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verificaBottonBuscarID -->
       </class> <!-- SeleniumJenkinsTestNGprueba1.ElemetoID_buscar -->
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementos">
-        <test-method status="PASS" signature="buttonTes()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementos@5622fdf]" name="buttonTes" duration-ms="15472" started-at="2018-01-31T15:18:07Z" finished-at="2018-01-31T15:18:23Z">
+        <test-method status="PASS" signature="buttonTes()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementos@5622fdf]" name="buttonTes" duration-ms="10818" started-at="2018-01-31T15:36:06Z" finished-at="2018-01-31T15:36:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buttonTes -->
       </class> <!-- SeleniumJenkinsTestNGprueba1.Prueba_deElementos -->
       <class name="SeleniumJenkinsTestNGprueba1.PruebaFormulario">
-        <test-method status="PASS" signature="PruebaFormularioUser()[pri:0, instance:SeleniumJenkinsTestNGprueba1.PruebaFormulario@4883b407]" name="PruebaFormularioUser" duration-ms="19342" started-at="2018-01-31T15:18:23Z" finished-at="2018-01-31T15:18:42Z">
+        <test-method status="PASS" signature="PruebaFormularioUser()[pri:0, instance:SeleniumJenkinsTestNGprueba1.PruebaFormulario@4883b407]" name="PruebaFormularioUser" duration-ms="13941" started-at="2018-01-31T15:36:17Z" finished-at="2018-01-31T15:36:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaFormularioUser -->
       </class> <!-- SeleniumJenkinsTestNGprueba1.PruebaFormulario -->
       <class name="SeleniumJenkinsTestNGprueba1.Prueba_deElementocss">
-        <test-method status="PASS" signature="verificaCss()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementocss@1794d431]" name="verificaCss" duration-ms="9131" started-at="2018-01-31T15:19:01Z" finished-at="2018-01-31T15:19:10Z">
+        <test-method status="PASS" signature="verificaCss()[pri:0, instance:SeleniumJenkinsTestNGprueba1.Prueba_deElementocss@1794d431]" name="verificaCss" duration-ms="9513" started-at="2018-01-31T15:36:56Z" finished-at="2018-01-31T15:37:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verificaCss -->
       </class> <!-- SeleniumJenkinsTestNGprueba1.Prueba_deElementocss -->
       <class name="SeleniumJenkinsTestNGprueba1.MultiplesMetodos">
-        <test-method status="PASS" signature="AbrirChrome()[pri:0, instance:SeleniumJenkinsTestNGprueba1.MultiplesMetodos@39c0f4a]" name="AbrirChrome" is-config="true" duration-ms="2779" started-at="2018-01-31T15:18:51Z" finished-at="2018-01-31T15:18:54Z">
+        <test-method status="PASS" signature="AbrirChrome()[pri:0, instance:SeleniumJenkinsTestNGprueba1.MultiplesMetodos@39c0f4a]" name="AbrirChrome" is-config="true" duration-ms="2759" started-at="2018-01-31T15:36:45Z" finished-at="2018-01-31T15:36:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AbrirChrome -->
-        <test-method status="PASS" signature="valid_User()[pri:0, instance:SeleniumJenkinsTestNGprueba1.MultiplesMetodos@39c0f4a]" name="valid_User" duration-ms="5965" started-at="2018-01-31T15:18:54Z" finished-at="2018-01-31T15:19:00Z">
+        <test-method status="PASS" signature="valid_User()[pri:0, instance:SeleniumJenkinsTestNGprueba1.MultiplesMetodos@39c0f4a]" name="valid_User" duration-ms="6198" started-at="2018-01-31T15:36:48Z" finished-at="2018-01-31T15:36:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- valid_User -->
-        <test-method status="PASS" signature="CerrarChrome()[pri:0, instance:SeleniumJenkinsTestNGprueba1.MultiplesMetodos@39c0f4a]" name="CerrarChrome" is-config="true" duration-ms="808" started-at="2018-01-31T15:19:00Z" finished-at="2018-01-31T15:19:01Z">
+        <test-method status="PASS" signature="CerrarChrome()[pri:0, instance:SeleniumJenkinsTestNGprueba1.MultiplesMetodos@39c0f4a]" name="CerrarChrome" is-config="true" duration-ms="1192" started-at="2018-01-31T15:36:54Z" finished-at="2018-01-31T15:36:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CerrarChrome -->
